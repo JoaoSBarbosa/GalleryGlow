@@ -25,7 +25,7 @@ export default function Home() {
           <h1 className="text-center text-3xl font-bold my-10 text-white">
             Wallpaper
           </h1>
-          <section className="container max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          <section className="container max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-5">
             {photoList.map((img) => (
               <PhotoItem
                 key={img.id}

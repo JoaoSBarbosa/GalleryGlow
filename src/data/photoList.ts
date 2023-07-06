@@ -19,4 +19,6 @@ export const photoList: Photo[] =[
   {id:16, url: '16.jpg'},
   {id:17, url: '17.jpg'},
   {id:18, url: '18.jpg'},
+  {id:19, url: '19.jpg'},
+  {id:20, url: '20.jpg'},
 ]
